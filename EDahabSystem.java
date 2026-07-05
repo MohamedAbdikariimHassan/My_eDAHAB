@@ -1,3 +1,5 @@
+//Name Mohamed Apdi kariim Hassan
+//c6240177
 import java.util.Scanner;
 
 public class EDahabSystem {
