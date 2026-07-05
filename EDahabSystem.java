@@ -7,7 +7,7 @@ public class EDahabSystem {
         Scanner input = new Scanner(System.in);
 
 
-        String pinSaxAh = "1234";
+        String pinSaxAh = "9470";
         double hanti = 950.00;
 
 
@@ -141,6 +141,7 @@ public class EDahabSystem {
                         System.out.println("Waxaad Bank-ga u dirtay $" + walletToBank);
                     }
                     break;
+                    
 
                 default:
                     System.out.println("Nambar khaldan ayaad riixday!");
@@ -152,6 +153,7 @@ public class EDahabSystem {
             System.out.println("[X] Connection problem or invalid MMI code.");
         }
 
-        input.close();
+
+        
     }
 }
